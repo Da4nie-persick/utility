@@ -1,3 +1,3 @@
-версия Java 11;
-• maven-4.0.0;
-• lombok-1.18.30 https://projectlombok.org/ 
+версия Java 11; <br> 
+maven-4.0.0; <br> 
+lombok-1.18.30 https://projectlombok.org/ 
